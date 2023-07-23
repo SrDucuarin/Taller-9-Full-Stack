@@ -1,4 +1,4 @@
-<h1>Taller 9 Nombre_del_estudiante</h1>
+<h1>Taller 9 Andrés Felipe Ducuara Tique</h1>
 
 <h2> Información</h2>
 
@@ -7,5 +7,6 @@
 
 <h2> Punto 1: Link figma</h2>
 
-<a href="" target="_blank">Link de Figma</a>
+<a href="https://www.figma.com/file/KV9FuYec1LGASwf636CYWd/Ejercicio-Figma-(Wireframes-y-Mockups)?type=design&node-id=0%3A1&mode=design&t=HHXBVbyLc9YwQlsj-1" target="_blank">Link de Figma</a>
 
+<h2>Punto 2: HTML</h2>
