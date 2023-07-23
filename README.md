@@ -10,3 +10,4 @@
 <a href="https://www.figma.com/file/KV9FuYec1LGASwf636CYWd/Ejercicio-Figma-(Wireframes-y-Mockups)?type=design&node-id=0%3A1&mode=design&t=HHXBVbyLc9YwQlsj-1" target="_blank">Link de Figma</a>
 
 <h2>Punto 2: HTML</h2>
+<img src="./public/images/HTML.png" alt="HTML">
