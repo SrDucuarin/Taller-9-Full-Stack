@@ -1,0 +1,24 @@
+.st__table table{
+    border-collapse: collapse;
+    background: yellow;
+}
+.st__table p{
+   line-height: 2px;
+}
+.st__table table th{
+    border: black 1px dashed; 
+}
+.last__cell{
+    border-bottom: red 1px dashed;
+}
+.st__table table td{
+    border: black 1px dashed;
+}
+.upper__text{
+    color: red;
+}
+
+.minor__text {
+    font-size: x-small;
+}
+

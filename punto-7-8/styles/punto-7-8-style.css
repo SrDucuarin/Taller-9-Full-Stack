@@ -1,0 +1,16 @@
+.nav__uperpannel{
+    display: flex;
+    align-items: center;
+    background-color: plum;
+    justify-content: space-between;   
+}
+.nav__uperpannel nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: white;
+}
+.main__option{
+    background-color: blue;
+    color: white;
+}
